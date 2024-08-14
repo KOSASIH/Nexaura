@@ -1,0 +1,8 @@
+transaction_id,user_id,transaction_type,amount,currency,timestamp,category,subcategory,description
+1,1,purchase,10.99,USD,2022-01-01 12:00:00,Electronics,Smartphones,iPhone 13
+2,2,transfer,50.00,USD,2022-01-05 10:00:00,Transfers,Bank Transfer,Paypal transfer
+3,3,sale,200.00,GBP,2022-01-10 14:00:00,Real Estate,Apartment Rental,Rent payment
+4,4,withdrawal,100.00,AUD,2022-01-15 16:00:00,Withdrawals,ATM Withdrawal,Cash withdrawal
+5,5,deposit,500.00,JPY,2022-01-20 10:00:00,Deposits,Bank Deposit,Salary deposit
+...
+10000,1000,purchase,20.00,USD,2022-02-20 14:30:00,Food Delivery,Fast Food,Pizza delivery
