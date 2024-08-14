@@ -1,7 +1,7 @@
 # Nexaura
 A Decentralized, AI-Powered, Blockchain-Based Virtual Assistant for the Pi Network Ecosystem. 
 
-# Nexaura
+# Introduction
 
 Nexaura is a decentralized, AI-powered, blockchain-based virtual assistant for the Pi Network ecosystem.
 
