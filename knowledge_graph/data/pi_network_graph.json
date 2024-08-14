@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Node 1",
+      "label": "Node 1",
+      "type": "entity"
+    },
+    {
+      "id": "Node 2",
+      "label": "Node 2",
+      "type": "entity"
+    },
+    {
+      "id": "Node 3",
+      "label": "Node 3",
+      "type": "entity"
+    }
+  ],
+  "edges": [
+    {
+      "id": "Edge 1",
+      "source": "Node 1",
+      "target": "Node 2",
+      "type": "relation"
+    },
+    {
+      "id": "Edge 2",
+      "source": "Node 2",
+      "target": "Node 3",
+      "type": "relation"
+    }
+  ]
+}
