@@ -1,0 +1,8 @@
+user_id,username,email,location,device_type,os,browser,language,timezone,created_at,last_login
+1,alice,alice@example.com,San Francisco,iPhone,IOS,Safari,English,-08:00,2022-01-01 12:00:00,2022-01-15 14:30:00
+2,bob,bob@example.com,New York,Android,Android,Chrome,English,-05:00,2022-01-05 10:00:00,2022-01-20 16:45:00
+3,charlie,charlie@example.com,London,Desktop,Windows,Firefox,English,+00:00,2022-01-10 14:00:00,2022-01-25 11:15:00
+4,dave,dave@example.com,Sydney,iPad,IOS,Safari,Australian,-10:00,2022-01-15 16:00:00,2022-02-01 13:30:00
+5,emily,emily@example.com,Tokyo,Desktop,MacOS,Safari,Japanese,+09:00,2022-01-20 10:00:00,2022-02-05 15:45:00
+...
+1000,zoe,zoe@example.com,Miami,Android,Android,Chrome,English,-05:00,2022-02-10 12:00:00,2022-02-20 14:30:00
